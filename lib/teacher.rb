@@ -1,4 +1,3 @@
-lib/user.rb 
 
 class Teacher < User 
 
